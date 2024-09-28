@@ -17,5 +17,5 @@
 
 ## Insight
 
-According to the graph, both latte and americano with milk are the best sellers each month. They generated a total of $278.31 (americano with milk) and $289.90 (latte) over 7 months, accounting for 49.47% of the Grand Total Sales. For the Hourly Coffee Sales chart, there is a surge around 10 AM followed by a slight drop at 11 AM, indicating that the store may need to adjust the workforce accordingly.
+According to the graph, both latte and americano with milk are the best sellers each month. They generated a total of $278.31 (americano with milk) and $289.90 (latte) over 7 months, accounting for 49.47% of the Grand Total Sales. For the Hourly Coffee Sales chart, there is a surge around 10 AM followed by a slight drop at 11 AM, indicating that the store may need to adjust the machine and ingredients accordingly.
 
