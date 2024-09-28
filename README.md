@@ -9,7 +9,8 @@
 ## Pivot Table and Visualization
 6. Create Pivot Table, slicer, and Visualization for the Data Set
 7. Create charts for Total Sales by Month and Hourly Coffee Sales
-![image](https://github.com/user-attachments/assets/3340af33-2af1-44a5-ae56-d606a52420ad)
+
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/3596b69e-3a96-4ea0-a6aa-27a31cc42829">
 
 
 ## Insight Analysis
